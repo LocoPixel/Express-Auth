@@ -13,4 +13,7 @@ Express App with authntication module
 
 **Note : Please make sure your MongoDB is running. at localhost:27017** 
 
-## Contributers : Behroz, Faizan & Khizer
+
+
+## Contributers
+ Behroz, Faizan & Khizer
